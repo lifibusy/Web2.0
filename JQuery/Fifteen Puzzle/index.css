@@ -1,0 +1,35 @@
+/*
+* @Author: Administrator
+* @Date:   2017-04-14 10:14:42
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-04-14 20:28:49
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+#GameContainer {
+	position: absolute;
+	left: 30px;
+	top: 65px;
+	width: 356px;
+	height: 356px;
+}
+.box {
+	width: 87px;
+	height: 87px;
+	border: 1px solid gray;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+.backgroundImage{
+	background-image: url("panda.jpg");
+}
+#startGameBtn{
+	position: absolute;
+    left: 170px;
+    top: 430px;
+    width: 70px;
+    height: 22px;
+}

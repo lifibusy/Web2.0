@@ -1,0 +1,70 @@
+/*
+* @Author: Administrator
+* @Date:   2017-04-19 23:07:19
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-04-21 00:34:26
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+th, td {
+	border: 1px solid black;
+}
+th {
+	background-color: #041a7f;
+	color: white;
+}
+tr:nth-child(2) {
+	background-color: #dddddd;
+}
+
+.descend0 {
+	background-image: url("descend.png");
+	width: 18px;
+    height: 18px;
+    position: relative;
+    left: 125px;
+    top: 20px;
+}
+.descend1 {
+	background-image: url("descend.png");
+	width: 18px;
+    height: 18px;
+    position: relative;
+    left: 223px;
+    top: 20px;
+}
+.descend2 {
+	background-image: url("descend.png");
+	width: 18px;
+    height: 18px;
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+
+.ascend0 {
+	background-image: url("ascend.png");
+	width: 18px;
+    height: 18px;
+    position: relative;
+    left: 125px;
+    top: 20px;
+}
+.ascend1 {
+	background-image: url("ascend.png");
+	width: 18px;
+    height: 18px;
+    position: relative;
+    left: 223px;
+    top: 20px;
+}
+.ascend2 {
+	background-image: url("ascend.png");
+	width: 18px;
+    height: 18px;
+    position: relative;
+    left: 400px;
+    top: 20px;
+}

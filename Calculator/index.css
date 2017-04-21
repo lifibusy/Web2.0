@@ -1,0 +1,48 @@
+* {
+	margin:0px;
+	padding: 0px;
+}
+#container {
+	width: 484px;
+	height: 505px;
+	border: 1px solid grey;
+	margin: auto 0;
+	overflow: hidden;
+}
+h1 {
+	color:green;
+	text-align: center;
+}
+#box-container {
+	width: 411px;
+	height: 425px;
+	position: absolute;
+	left: 33px;
+	border: 1px solid black;
+}
+#screen {
+	width: 376px;
+	height: 29px;
+	position: absolute;
+	left: 13px;
+	top: 12px;
+	
+}
+ul {
+	width: 411px;
+	height: 329px;
+	position: absolute;
+	left: 0;
+	top: 65px;
+}
+li {
+	list-style: none;
+}
+li input {
+	display: inline-block;;
+	margin-left: 14px;
+	margin-right: 0px;
+	margin-bottom: 9px;
+	width: 86px;
+	height: 59px;
+}

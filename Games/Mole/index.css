@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+	height: 500px;
+	width: 780px;
+}
+h1 {
+	text-align: center;
+}
+#description {
+	text-align: center;
+}
+#startAndStopBtn ,#GameState{
+	margin-left: 240px;
+	width: 170px;
+}
+#GameContainer {
+	margin-left: 300px;
+	width: 242px;
+}
+.radioBtn {
+	width: 24px;
+	height: 24px;
+}
